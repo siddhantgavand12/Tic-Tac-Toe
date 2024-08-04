@@ -25,7 +25,7 @@
     border-radius: 1rem;
     border: 1px solid rgba(255, 255, 255, 0.25);
     padding: 0.5rem 3rem;
-    /* text-align:center; */
+    text-align:center;  
 }
 
 .tic-tac-toe{
